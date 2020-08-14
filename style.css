@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+    background-color: aliceblue;
+}
+
+.hidden {
+    display: none;
+} 
+
+.form-container {
+    margin-bottom: 15px;
+}
+
+.results-container div {
+    border: solid;
+    background-color: white;
+}
+
+.results {
+    text-align: left;
+    padding: 0 0 25px 25px;
+}
